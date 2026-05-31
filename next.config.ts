@@ -3,6 +3,13 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   poweredByHeader: false,
   compress: true,
+  experimental: {
+    optimizePackageImports: [
+      "lucide-react",
+      "@react-three/drei",
+      "framer-motion",
+    ],
+  },
   images: {
     localPatterns: [
       { pathname: "/projects/**" },
