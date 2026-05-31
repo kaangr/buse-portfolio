@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Organic Market placeholder">
+  <defs>
+    <linearGradient id="bg" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#E8F0E6"/>
+      <stop offset="100%" stop-color="#7A9A72"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <ellipse cx="400" cy="520" rx="280" ry="120" fill="#F9F9F7" opacity="0.45"/>
+  <rect x="200" y="380" width="400" height="12" fill="#1A1A1A" opacity="0.12"/>
+  <circle cx="250" cy="480" r="40" fill="#5C7A54" opacity="0.35"/>
+  <circle cx="550" cy="500" r="55" fill="#5C7A54" opacity="0.25"/>
+  <text x="80" y="120" fill="#1A1A1A" font-family="Georgia, serif" font-size="42" opacity="0.85">Organic Market</text>
+  <text x="80" y="168" fill="#1A1A1A" font-family="sans-serif" font-size="16" letter-spacing="5" opacity="0.45">EXHIBITION STAND</text>
+  <text x="80" y="920" fill="#1A1A1A" font-family="sans-serif" font-size="14" letter-spacing="4" opacity="0.35">STAND � PLACEHOLDER</text>
+</svg>
